@@ -13,3 +13,5 @@ qsqs
 dw
 d--:wq--
 :
+clear
+git 
